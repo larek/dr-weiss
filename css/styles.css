@@ -636,7 +636,7 @@ form textarea.form-control {
 }
 @media screen and (max-width: 640px) {
   .logo {
-    width: 100px;
+    width: 100px !important;
     height: auto;
   }
   .slick-next {
@@ -649,7 +649,9 @@ form textarea.form-control {
     margin-top: 20px;
   }
   header .navbar-default {
-    padding: 20px;
+    padding: 20px 20px 0px 20px;
+
+
   }
   header .navbar-default .navbar-toggle {
     margin-top: 0px;
@@ -991,11 +993,12 @@ section#support .media i.fa {
     color: #bec3c3;
 }
 section#support .media a {
-  color: #66cc99;
+  color: #696969;
+  text-decoration: underline;
 }
 section#support .media:hover i.fa {
   color: #ffffff;
-  background: #66cc99;
+  background: #bec3c3;
 }
 section#support .media:hover h3 {
   color: #66cc99;
