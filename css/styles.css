@@ -1142,3 +1142,24 @@ span.service_price {
 span.service_title {
     font-size: 18px;
 }
+
+.navbar-default {
+  box-shadow:  0px 0px 7px black;
+}
+
+section#about{
+    box-shadow: 0px 4px 9px silver;
+    z-index: 40;
+}
+section#doctors{
+    box-shadow: 0px 4px 9px silver;
+    z-index: 30;
+}
+section#features{
+    box-shadow: 0px 4px 9px silver;
+    z-index: 20;
+}
+section#demo{
+    box-shadow: 0px 4px 9px silver;
+    z-index: 10;
+}
