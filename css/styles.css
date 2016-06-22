@@ -49,7 +49,7 @@ h6,
   color: #666666;
 }
 header .navbar-default {
-  background: #bec3c3;
+  background: #f8f6f7;
   border: none;
   padding-top: 40px;
   padding-bottom: 20px;
@@ -101,7 +101,7 @@ header .navbar-default ul.navbar-nav li a:hover {
   transition: all 0.25s ease-in-out;
 }
 header .navbar-default ul.navbar-nav li a:hover:after {
-  background: #ffffff;
+  background: #bbbbbb;
 }
 header .navbar-default ul.navbar-nav li a.getApp {
   -webkit-border-radius: 5em;
@@ -119,7 +119,7 @@ header .navbar-default ul.navbar-nav li a.getApp:after {
   display: none;
 }
 header .navbar-default ul.navbar-nav li a:focus {
-  color: #ffffff;
+  color: #bbbbbb;
 }
 header .navbar-default .navbar-brand {
   height: auto;
@@ -193,7 +193,7 @@ header .navbar-default.scrolled ul.navbar-nav {
   color: #ffffff;
 }
 .section-heading.inverse .divider:after {
-  background: #ffffff;
+  background: #bbbbbb;
 }
 section#about {
   position: relative;
@@ -778,7 +778,7 @@ header {
  
 }
 header .navbar-default ul.navbar-nav li a {
-  color: #ffffff;
+  color: #bbbbbb;
   background: none;
 }
 header .navbar-default ul.navbar-nav li a.getApp {
@@ -825,7 +825,7 @@ header .navbar-default ul.navbar-nav li a.getApp:hover {
   transition: all 0.25s ease-in-out;
 }
 header .navbar-default ul.navbar-nav li a:hover {
-  color: #ffffff;
+  color: #bbbbbb;
   -webkit-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
   -ms-transition: all 0.25s ease-in-out;
@@ -833,22 +833,22 @@ header .navbar-default ul.navbar-nav li a:hover {
   transition: all 0.25s ease-in-out;
 }
 header .navbar-default.scrolled {
-  border-bottom: 3px solid #bec3c3;
+  border-bottom: 3px solid #f8f6f7;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #bec3c3;
+  color: #bbbbbb;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
-  color: #bec3c3;
+  color: #bbbbbb;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
-  background: #bec3c3;
+  background: #bbbbbb;
 }
 header .navbar-default.scrolled .navbar-brand {
-  background: #bec3c3;
+  background: #bbbbbb;
 }
 section .section-heading .divider:after {
-  background: #bec3c3;
+  background: #bbbbbb;
 }
 section#about .about-item i.fa {
   border: 2px solid #66cc99;
@@ -870,7 +870,7 @@ section#doctors .about-item:hover i.fa {
   background: #66cc99;
 }
 section#doctors .about-item:hover h3 {
-  color: #bec3c3;
+  color: #f8f6f7;
 }
 section#features {
   background: #ffffff;
@@ -996,8 +996,8 @@ section#support header h1:after {
   background: #66cc99;
 }
 section#support .media i.fa {
-    border: 2px solid #bec3c3;
-    color: #bec3c3;
+    border: 2px solid #f8f6f7;
+    color: #f8f6f7;
 }
 section#support .media a {
   color: #696969;
@@ -1005,14 +1005,14 @@ section#support .media a {
 }
 section#support .media:hover i.fa {
   color: #ffffff;
-  background: #bec3c3;
+  background: #f8f6f7;
 }
 section#support .media:hover h3 {
   color: #66cc99;
 }
 /* footer section */
 footer {
-  background: #bec3c3;
+  background: #f8f6f7;
 }
 footer .social a {
   border: 2px solid #ffffff;
@@ -1021,16 +1021,16 @@ footer .social a i {
   color: #ffffff;
 }
 footer .social a:hover {
-  background: #ffffff;
+  background: #bbbbbb;
 }
 footer .social a:hover i {
   color: #66cc99;
 }
 footer .rights {
-  color: #ffffff;
+  color: #bbbbbb;
 }
 footer .rights a {
-  color: #ffffff;
+  color: #bbbbbb;
   font-weight: 300;
   text-decoration: none;
 }
@@ -1073,10 +1073,10 @@ footer .rights a {
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#cccccc, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
-  color: #bec3c3;
+  color: #f8f6f7;
 }
 .btn.btn-default:hover {
-  color: #bec3c3;
+  color: #f8f6f7;
 }
 form .form-control:focus {
   border-color: #66cc99;
@@ -1102,10 +1102,10 @@ form .form-control:focus {
     color: #66cc99;
   }
   header .navbar-default .navbar-collapse {
-    background: #bec3c3;
+    background: #f8f6f7;
   }
   header .navbar-default.scrolled {
-    background: #bec3c3;
+    background: #f8f6f7;
   }
   header .navbar-default.scrolled ul.navbar-nav li a {
     color: #ffffff;
@@ -1115,7 +1115,7 @@ form .form-control:focus {
   }
 }
 .pre-loader {
-  background: #bec3c3;
+  background: #f8f6f7;
 }
 
 .fotorama_wrapper{
