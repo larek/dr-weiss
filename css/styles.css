@@ -482,6 +482,8 @@ footer {
 }
 footer a > img {
   width: 100px;
+  filter: drop-shadow(0 0 3px black);
+  -webkit-filter: drop-shadow(0 0 3px black);
 }
 footer .social {
   display: block;
