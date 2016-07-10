@@ -996,8 +996,8 @@ section#support header h1:after {
   background: #66cc99;
 }
 section#support .media i.fa {
-    border: 2px solid #f8f6f7;
-    color: #f8f6f7;
+    border: 2px solid #EBE9EC;
+    color: #d2d1d1;
 }
 section#support .media a {
   color: #696969;
@@ -1005,7 +1005,8 @@ section#support .media a {
 }
 section#support .media:hover i.fa {
   color: #ffffff;
-  background: #f8f6f7;
+  background: #d2d1d1;
+  border-color: #d2d1d1;
 }
 section#support .media:hover h3 {
   color: #66cc99;
