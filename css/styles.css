@@ -49,7 +49,7 @@ h6,
   color: #666666;
 }
 header .navbar-default {
-  background: #f8f6f7;
+  background: #efefef;
   border: none;
   padding: 20px 0;
   -webkit-transition: all 0.25s ease-in-out;
@@ -777,7 +777,7 @@ header {
  
 }
 header .navbar-default ul.navbar-nav li a {
-  color: #bbbbbb;
+  color: #777;
   background: none;
 }
 header .navbar-default ul.navbar-nav li a.getApp {
@@ -835,7 +835,7 @@ header .navbar-default.scrolled {
   border-bottom: 3px solid #f8f6f7;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #bbbbbb;
+  color: #777;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
   color: #bbbbbb;
