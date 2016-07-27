@@ -1215,3 +1215,22 @@ section#demo{
     display: block;
   }
 }
+
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.doc-position {
+    font-size: 14px;
+    line-height: 19px;
+}
