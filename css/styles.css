@@ -49,7 +49,7 @@ h6,
   color: #949494;
 }
 header .navbar-default {
-  background: #efefef;
+  background: #57504d;
   border: none;
   padding: 20px 0px 60px 0px;
   -webkit-transition: all 0.25s ease-in-out;
@@ -126,7 +126,7 @@ header .navbar-default .navbar-brand {
   margin-left: 20px;
 }
 header .navbar-default.scrolled {
-  background: rgba(255, 255, 255, 0.8);
+  background: #57504d;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
@@ -780,8 +780,9 @@ header {
  
 }
 header .navbar-default ul.navbar-nav li a {
-  color: #777;
-  background: none;
+    color: white;
+    background: none;
+    font-weight: bold;
 }
 header .navbar-default ul.navbar-nav li a.getApp {
   color: #3cb4b4;
@@ -838,7 +839,7 @@ header .navbar-default.scrolled {
   border-bottom: 3px solid #f8f6f7;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #777;
+  color: white;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
   color: #bbbbbb;
