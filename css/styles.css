@@ -23,12 +23,12 @@
 }
 
 body {
-  font-family: 'Roboto', Arial;
+  font-family: 'Open Sans', Arial;
   color: #666666;
   -webkit-font-smoothing: antialiased;
 }
 a {
-  font-family: 'Roboto', Arial;
+  font-family: 'Open Sans', Arial;
   -webkit-font-smoothing: antialiased;
 }
 div.content {
@@ -777,7 +777,7 @@ form textarea.form-control {
   }
 }
 header {
- 
+
 }
 header .navbar-default ul.navbar-nav li a {
     color: white;
@@ -1126,7 +1126,7 @@ form .form-control:focus {
 .fotorama_wrapper{
   margin-top:129px;
 }
- 
+
 .navbar-brand>img{
   width:250px;
  /* filter: drop-shadow(0 5px 20px black);
